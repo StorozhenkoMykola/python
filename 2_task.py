@@ -1,0 +1,7 @@
+a=int(input("enter number a = "))
+b=int(input("enter number b = "))
+print("Sum a+b = " + str(a+b) )
+print("Difference a-b= " + str(a-b)) 
+print("Prodact a*b= " + str(a*b) )
+if (b==0): print("b=0, division by 0 is not possible")
+else: print("Denominator a/b= " + str(a/b))

@@ -1,0 +1,5 @@
+a=int(input("enter number a = "))
+b=int(input("enter number b = "))
+if (b>a): print("bigger number b = "+str(b))
+elif (b<a): print("bigger number a = "+str(a))
+else:print ("a=b")

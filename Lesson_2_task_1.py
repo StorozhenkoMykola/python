@@ -18,7 +18,7 @@ Now is better than never.
 Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let's do more of those!'''
+Namespaces are one honking great idea -- let's do more of those! '''
 print (zen.count('better'),zen.count('never'),zen.count('is')) 
 print (zen.upper())
 print (zen.replace('i','&'))

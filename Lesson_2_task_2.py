@@ -5,5 +5,5 @@ for n in number:
     p=int(n)*p
     r=n+r
 print("prodact = ",p)
-print("revers =",r)
+print("revers = ",r)
 print("sort = ",sorted(r))
